@@ -11,9 +11,9 @@ O projeto tem como intuito criar um sistema de Secretaria Escolar simplificado p
 # :file_folder: Acesso ao projeto
 
 *-O código fonte do projeto encontra-se neste repositório.*
-**[Git Clone ](https://github.com/Rosa-Junior/sistematizacao-ceub.git)**
+**(https://github.com/lorenagbatista/Secretaria-Escolar/blob/main/secretaria_escolar)**
 
-# :floppy_disk: Abrir e rodar o projeto
+# <h1 align="center"> :floppy_disk: Abrir e rodar o projeto
 
 *-O projeto pode ser executado por meio do compilador de pseudocódigo Portugol Webstudio, acesso: https://portugol.dev/.*
 
