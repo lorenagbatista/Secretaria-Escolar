@@ -1,4 +1,4 @@
-# <h1 align="center"> Sistematização - CEUB -  </h1>
+# <h1 align="center"> - Secretaria Escolar -  </h1>
 
 Repositório para criação de avaliação de notas para Secretaria Escolar.
 
